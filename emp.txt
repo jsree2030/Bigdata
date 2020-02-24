@@ -1,0 +1,8 @@
+EMPID|NAME|BASIC
+111|jai|10000
+112|diya|12000
+113|deepa|15000
+90||
+91||
+101|jai|1500
+102|preeth|2000

@@ -1,0 +1,320 @@
+    1  mkdir hello
+    2  ls -l
+    3  ls
+    4  ls -la
+    5  vi .bashrc
+    6  expr ~ +
+    7  expr 21/7
+    8  expr 21 / 7
+    9  expr 3+8
+   10  expr 3 + 8
+   11  vi a.txt
+   12  head -1 a.txt
+   13  tail -2 a.txt
+   14  vi a.txt
+   15  expr  200 \* 500
+   16  vi a.txt6
+   17  ls
+   18  ls -l
+   19  ls -lz
+   20  ls -la
+   21  wc - w a.txt
+   22  ls -l
+   23  cat a.txt
+   24  wc - w a.txt
+   25  ls - l
+   26  l -l
+   27  vi a.txt
+   28  man wc
+   29  wc -w a.txt
+   30  wc -c a.txt
+   31  wc -l a.txt
+   32  lgoout
+   33  logout
+   34  head a.txt
+   35  head +2 a.txt
+   36  head -1 a.txt
+   37  head -4 a.txt
+   38  head +4 a.txtt
+   39  tail +2 a.txt
+   40  head +4 a.txt
+   41  expr 8 + 7
+   42  expr 9 \* 5
+   43  expr 7 \ 2
+   44  expr 7 \ 7
+   45  expr 8 / 2
+   46  expr 7 / 2
+   47  expr 8 / 5
+   48  wc -w 1.txt
+   49  wc - w a.txt
+   50  wc -w a.txt
+   51  wc -l a.txt
+   52  wc -w a.txt
+   53  man wc
+   54  man su
+   55  wc -l a.txt
+   56  man sudo_root
+   57  wc - w a.txt
+   58  man su
+   59  mkdir nielit
+   60  mkdir Nielit
+   61  ls -l
+   62  cd nielit
+   63  umask 000
+   64  vi a.txt
+   65  ls -l
+   66  cd..
+   67  man
+   68  man del
+   69  man -c
+   70  cd/
+   71  exit
+   72  ls -l
+   73  wc -l -M b.txt
+   74  man -M
+   75  cd nielit
+   76  vi -m 777 c.txt
+   77  ls -l
+   78  vi -m 777 c.txt
+   79  ls
+   80  vi c.txt
+   81  ls -l
+   82  cd..
+   83  exit
+   84  cd nielit
+   85  wc -l b.txt
+   86  wc b.txt
+   87  man wc
+   88  wc -c b.txt
+   89  vi d.txt
+   90  rm d.txt
+   91  ls -l
+   92  man cd
+   93  cd
+   94  cd nielit
+   95  umask 000
+   96  vi d.txt
+   97  cd
+   98  ls -l
+   99  cd nielit
+  100  ls -l
+  101  cd
+  102  umask 000
+  103  mkdir jay
+  104  ls -l
+  105  cd nielit
+  106  > d.txt
+  107  ls -l
+  108  umask 000
+  109  > e.txt
+  110  ls -l
+  111  cd
+  112  wc -c .bashrc
+  113  cd nielit
+  114  umask 111
+  115  >g.txt
+  116  > g.txt
+  117  ls -l
+  118  exit
+  119  date
+  120  mkdir jai
+  121  cd jai
+  122  date
+  123  date > c.txt
+  124  cat c.txt
+  125  cut -d " " -f 1,2,3
+  126  cut -d " " -f 1,2,3 c.txt
+  127  fname = "c.txt"
+  128  name = "c.txt"
+  129  mkdir > c.txt
+  130  data
+  131  date
+  132  date > c.txt
+  133  cat c.txt
+  134  cut -d " " -f 1,2,3 c.txt | tr " " "-"
+  135  name = "cat c.txt"
+  136  date > c.txt
+  137  cut -d " " -f 1,2,3 c.txt | tr " " "-"
+  138  name = "c.txt"
+  139  man name
+  140  $name ="c.txt"
+  141  date > c.txt
+  142  mkdir cut -d " " -f 1,2,3 c.txt | tr " " "-"
+  143  mkdir
+  144  mkdir --help
+  145  cat c.txt
+  146  cut -d " " -f 1,2,3 c.txt | tr " " "-"
+  147  name ="fri-feb-21"
+  148  $name = "Fri"
+  149  name = " Martin "
+  150  cat c.txt
+  151  cut -d " " -f 1,2,3 c.txt | tr " " "-"
+  152  cat c.txt
+  153  cut -d " " -f 1,2,3 c.txt | tr " " "-" > b.txt
+  154  cat b.txt
+  155  cd
+  156  ls -l
+  157  ls -l b.txt
+  158  ls-l > b.txt
+  159  ls-l>b.txt
+  160  ls -l>b.txt
+  161  cat b.txt
+  162* 
+  163  cat c.txt
+  164  cat b.txt
+  165  cat c.txt
+  166  cat b.txt
+  167  cut -d " " -f 1,2,3 c.txt | tr " " "-" > b.txt
+  168  cat b
+  169  catb.txt
+  170  cat b.txt
+  171  cat c.txt
+  172  ls -l>b.txt
+  173  cat b
+  174  cat b.txt
+  175* cut -c-4 > d.txt
+  176  cat d.txt
+  177  ls
+  178  man rename
+  179  cat c.txt
+  180  rename c.txt fname.txt
+  181  man rename
+  182  rename "c.txt" "fname.txt"
+  183  ls -l
+  184  cp c fname
+  185  cp c.txt fname.txt
+  186  ls -l
+  187  cat fname.txt
+  188  cat d.txt
+  189  vi instructions.txt
+  190  ping www.google.com
+  191  sudo apt-get install vim
+  192  sudo apt-get update
+  193  sudo apt-get install vim
+  194  sudo apt-get install openssh-server
+  195  sudo apt-get install visualstudiocode
+  196  sudo dpkg -i code_1.26.0-1534177765_amd64.deb
+  197  sudo apt-get install visualstudiocode
+  198* cut 
+  199  cat d.txt
+  200  cat c.txt
+  201  cd jai
+  202  cat c.txt
+  203  cat d.txt
+  204  ls
+  205  cat b.txt
+  206  d
+  207  cd
+  208  date
+  209  ls -l
+  210  vi a.txt
+  211  vi fname.txt
+  212  vi fname.tt
+  213* 
+  214* 
+  215  vi fname.txt
+  216  ls -1
+  217  ls -l
+  218  ls -1-9
+  219  ls -9
+  220  ls -l
+  221  ls - 1
+  222  ls -8
+  223* 
+  224  ls -5
+  225* 
+  226  a.txt
+  227  cat a.txt
+  228  cat b.txt
+  229  cat d.txt
+  230  man ls
+  231  data
+  232  date
+  233  cd jai
+  234  date
+  235  date|tr " " "-"
+  236  date|tr " " "-"|cut -d "-" -f 1-3
+  237* -
+  238  echo $x
+  239  X = `date|tr " " "-"|cut -d "-" -f 1-3'
+
+
+  240  mkdir $X
+  241  mkdir `date|tr " " "-"|cut -d "-" -f 1-3`
+  242  ls
+  243* 
+  244  ls
+  245  ls -1
+  246  cd fri-feb-21
+  247  cd
+  248  cd jai/fri-feb-21
+  249  ls
+  250  ls-1
+  251  cd jai
+  252  ls -1
+  253  ls-l
+  254  ls -l
+  255  cd Fri-Feb-21
+  256  cd
+  257  ls -1
+  258  vi d.txt
+  259  cd jai
+  260  cd
+  261  vi jai/d.txt
+  262  cp d.txt jai/
+  263  cd jai
+  264  ls
+  265  cat d.txt
+  266  cd
+  267  cd jai
+  268  cd Fri-Feb-21
+  269  cd
+  270  man cut
+  271  history>jai.txt
+  272  cat jai.txt
+  273  ls -l|tail -n +2
+  274  ls -l|tail -n +2|tr -s ""|
+  275  ls -l|tail -n +2|tr -s ""|cut -d " " -f 1,9
+  276  ls -l|tail -n +2|tr -s ""|cut -d " " -f 1,9|cut -c 1-4
+  277  ls -l|tail -n +2|tr -s ""|cut -d " " -f 1,9|cut -c 1-4>owner.txt
+  278  ls -l|tail -n +2|
+  279  ls -l|tail -n +2
+  280  ls -l|tail -n +2|tr -s ""|cut -d " " -f 1,9
+  281  ls -l|tail -n+2|tr -s ""|cut -d " " -f 1,9
+  282  ls -l|
+  283  ls -l
+  284  ls -l|tail -n+2|tr -s ' '|cut -d " " -f 1,9
+  285  ls -l|tail -n+2|tr -s " "
+  286  ls -l|tail -n+2|tr -s " "|cut -d " " -f 1,9
+  287  ls -l|tail -n+2|tr -s " "|cut -d " " -f 1,9|cut -c 1-4
+  288  ls -l|tail -n+2|tr -s " "|cut -d " " -f 1,9|cut -c 2-4
+  289  ls -l|tail -n+2|tr -s " "|cut -d " " -f 1,9|cut -c 2-4>owner.txt
+  290  ls -l|tail -n+2|tr -s " "|cut -d " " -f 1,9|>ow_fn.txt
+  291  cat ow_fn.txt
+  292  ls
+  293  cat ow_fn.txt
+  294  sudo apt-get install net-tools
+  295  ifconfig
+  296  vi a.txt
+  297  ssh bharath@192.168.10.246
+  298  ls -l|tail -n +2
+  299  ls -l|tail -n +2|tr -s " "
+  300  ls -h|tail -n +2|tr -s " "|cut -d " " -f 5,9
+  301  ls -l|tail -n +2|tr -s " "|cut -d " " -f 5,9
+  302  ls -h
+  303  ls -lh
+  304  ls -lh|tail -n +2|tr -s " "|cut -d " " -f 5,9
+  305  man wc
+  306  echo "hhhow areee youuuu"|wc -m
+  307  echo "hhhow areee youuuu"|wc -c
+  308  man wc
+  309  sudo apt-get install git
+  310  git --Version
+  311  git --version
+  312  cd jai
+  313  ls -l
+  314  cd Fri-Feb-21
+  315  cd jai
+  316  cd
+  317  history
+  318  history>his.txt

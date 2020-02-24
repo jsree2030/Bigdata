@@ -1,0 +1,4 @@
+ to create only the file name
+ls -l>a.txt
+
+

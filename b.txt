@@ -1,0 +1,18 @@
+total 72
+-rw-rw-r-- 1 jsree jsree   94 Feb 20 15:42 a.txt
+-rw-rw-r-- 1 jsree jsree    0 Feb 21 11:51 b.txt
+-rw-rw-r-- 1 jsree jsree  120 Feb 21 11:48 c.txt
+drwxr-xr-x 2 jsree jsree 4096 Feb 20 12:43 Desktop
+drwxr-xr-x 2 jsree jsree 4096 Feb 20 12:43 Documents
+drwxr-xr-x 2 jsree jsree 4096 Feb 20 12:43 Downloads
+-rw-r--r-- 1 jsree jsree 8980 Feb 20 12:38 examples.desktop
+drwxrwxr-x 2 jsree jsree 4096 Feb 20 12:45 hello
+drwxrwxr-x 2 jsree jsree 4096 Feb 21 11:43 jai
+drwxrwxrwx 2 jsree jsree 4096 Feb 20 16:30 jay
+drwxr-xr-x 2 jsree jsree 4096 Feb 20 12:43 Music
+drwxrwxr-x 2 jsree jsree 4096 Feb 20 16:42 nielit
+drwxrwxr-x 2 jsree jsree 4096 Feb 20 16:01 Nielit
+drwxr-xr-x 2 jsree jsree 4096 Feb 20 12:43 Pictures
+drwxr-xr-x 2 jsree jsree 4096 Feb 20 12:43 Public
+drwxr-xr-x 2 jsree jsree 4096 Feb 20 12:43 Templates
+drwxr-xr-x 2 jsree jsree 4096 Feb 20 12:43 Videos

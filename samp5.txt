@@ -1,0 +1,16 @@
+while read line 
+do
+echo "$line"
+done<numb.csv
+echo "Enter the Minimum age"
+read x
+echo "Enter the maximum age "
+read y
+if [age=$x -ge $y ]
+then
+echo "The number of persons in the age group is $x + $y"
+else
+echo "Incorrect maximum or minimum value"
+fi
+ 
+

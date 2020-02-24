@@ -1,0 +1,14 @@
+drwxr-xr-x-Desktop
+drwxr-xr-x-Documents
+drwxr-xr-x-Downloads
+-rw-r--r---examples.desktop
+drwxrwxr-x-hello
+drwxrwxr-x-jai
+drwxrwxrwx-jay
+drwxr-xr-x-Music
+drwxrwxr-x-nielit
+drwxrwxr-x-Nielit
+drwxr-xr-x-Pictures
+drwxr-xr-x-Public
+drwxr-xr-x-Templates
+drwxr-xr-x-Videos
